@@ -1,2 +1,5 @@
 # Clickygame
-hw
+Animal Game
+Anime 
+Ducks
+Shih Tzus
