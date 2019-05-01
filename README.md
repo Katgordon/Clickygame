@@ -1,4 +1,8 @@
 # Clickygame
+kitty ideas for hw
+
+
+
 Animal Game
 
 
